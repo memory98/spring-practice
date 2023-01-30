@@ -31,7 +31,7 @@
 			<td>${status.index}</td>
 			<td>${vo.name}</td>
 			<td>${vo.reg_date}</td>
-			<td><a href="${pageContext.request.contextPath }/delete?no=${vo.no}">삭제</a></td>
+			<td><a href="${pageContext.request.contextPath }/delete/${vo.no}">삭제</a></td>
 		</tr>
 		<tr>
 			<td colspan=4>${vo.message}</td>
