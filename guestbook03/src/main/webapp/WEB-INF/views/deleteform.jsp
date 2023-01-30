@@ -16,7 +16,6 @@
 				<td>비밀번호</td>
 				<td><input type="password" name="password"></td>
 				<td><input type="submit" value="삭제"></td>
-
 			</tr>
 		</table>
 	</form>
