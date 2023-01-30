@@ -32,5 +32,4 @@ public class BoardController {
 	public String view1(@PathVariable("no") Long no) {
 		return "BoardController.view("+no+")";
 	}
-	
 }

@@ -8,7 +8,7 @@
   <artifactId>guestbook03</artifactId>
   <packaging>war</packaging>
   
-  	<properties>
+  <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.build.outputEncoding>UTF-8</project.build.outputEncoding>
 		<maven.compiler.source>17</maven.compiler.source>
@@ -63,7 +63,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>emaillist03</finalName>
+		<finalName>guestbook03</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
